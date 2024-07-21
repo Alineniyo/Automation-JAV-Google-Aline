@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TS_Google_JUnit
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 43.61 s <<< FAILURE! -- in TS_Google_JUnit
+TS_Google_JUnit.tc_google_search_for_apple -- Time elapsed: 15.66 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: [Fail] - Validated locator: '//div[@class='microphone']' does not exist.
+	at TS_Google_JUnit.tc_google_search_for_apple(TS_Google_JUnit.java:136)
+

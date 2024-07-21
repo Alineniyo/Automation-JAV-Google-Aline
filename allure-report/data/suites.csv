@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 23 13:48:57 CAT 2024","Thu May 23 13:49:10 CAT 2024","12889","","TS_Google_JUnit","","TS_Google_JUnit","tc_google_gmail","TC - Google - gmail",""
+"failed","Thu May 23 13:48:33 CAT 2024","Thu May 23 13:48:49 CAT 2024","15599","","TS_Google_JUnit","","TS_Google_JUnit","tc_google_search_for_apple","TC - Google - Search for Tom and Jerry",""
+"passed","Thu May 23 13:48:54 CAT 2024","Thu May 23 13:48:57 CAT 2024","3421","","TS_Google_JUnit","","TS_Google_JUnit","tc_google_search_for_Phones","TC - Google - Search for phones",""
